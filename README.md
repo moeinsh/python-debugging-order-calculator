@@ -20,3 +20,9 @@ python fixed.py
 
 This is a demonstration sample showing my debugging approach.
 No client, no fake data.
+
+---
+
+**Author:** Moein Shahidi — [@moeinsh](https://github.com/moeinsh)
+
+© 2026 Moein Shahidi. Released under the MIT License.
